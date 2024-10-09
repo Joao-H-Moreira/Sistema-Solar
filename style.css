@@ -134,15 +134,7 @@ main{
 }
 
 /* Configurações das decorações extras */
-.elon{
-    width: 150px ;
-    height: 150px;
-    margin-left: 180px;
-    margin-top: 170px;
-    border-radius: 100px;
-    opacity: 70%;
-    cursor: none;
-}
+
 .img-gojo{
     position: absolute;
     bottom: 5%;
